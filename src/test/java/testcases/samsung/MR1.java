@@ -237,7 +237,7 @@ public class MR1 {
         capabilities.setCapability("platformVersion","14");
         capabilities.setCapability("platformName", "android");
         capabilities.setCapability("newCommandTimeout",120000);
-        capabilities.setCapability("udid","R3CW405JAEF");
+        capabilities.setCapability("udid","R83WC07YA8N");
         String hub = " http://192.168.200.37/wd/hub";
 
         AndroidDriver driver = new AndroidDriver(new URL(hub), capabilities);
