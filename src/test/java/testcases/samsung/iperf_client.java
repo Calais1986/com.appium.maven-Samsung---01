@@ -20,7 +20,7 @@ public class iperf_client {
                 return "nok";
             }
             var el2 = driver.findElement(AppiumBy.androidUIAutomator("new UiSelector().className(\"android.widget.EditText\").instance(0)"));
-            el2.sendKeys("192.168.1.143");
+            el2.sendKeys("192.168.1.150");
             try {
                 Thread.sleep(3000);
             } catch (InterruptedException e) {

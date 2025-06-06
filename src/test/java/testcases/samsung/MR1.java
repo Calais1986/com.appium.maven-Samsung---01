@@ -42,12 +42,30 @@ public class MR1 {
                 e.printStackTrace();
             }
             clean_phone_history.test(driver);
-
+            try {
+                Thread.sleep(3000);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
             String iperf = iperf_client.test(driver, kobitonSessionId);
-
+            try {
+                Thread.sleep(3000);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
             String ping = testcases.samsung.ping.test(driver, kobitonSessionId);
-
+            try {
+                Thread.sleep(3000);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
             clean_phone_history.test(driver);
+            try {
+                Thread.sleep(3000);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+
 
 
 
