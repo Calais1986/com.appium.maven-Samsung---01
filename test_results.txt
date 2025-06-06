@@ -1,0 +1,15 @@
+kobitonSessionId,marca,modelo,OS,call_test_result,connection_5g_result,nr_speedtest_result,volte_test_result,sms_test_result,apn_test_result,conf_call_test_result,hotspot_test_result,vowifi_test_result,security_test_result,timestamp2
+kobitonSessionId,marca,modelo,OS,call_test_result,connection_5g_result,nr_speedtest_result,volte_test_result,sms_test_result,apn_test_result,conf_call_test_result,hotspot_test_result,vowifi_test_result,security_test_result,timestamp2 
+kobitonSessionId,samsung,modelo,OS,NOK,NOK,null,NOK,Under development,,NOK,NOK,NOK,NOK,2024-09-27 17:00:06.394
+kobitonSessionId,marca,modelo,OS,call_test_result,connection_5g_result,nr_speedtest_result,volte_test_result,sms_test_result,apn_test_result,conf_call_test_result,hotspot_test_result,vowifi_test_result,security_test_result,timestamp2 
+kobitonSessionId,samsung,modelo,OS,NOK,NOK,null,NOK,Under development,,NOK,NOK,NOK,NOK,2024-09-27 18:15:11.187
+kobitonSessionId,marca,modelo,OS,call_test_result,connection_5g_result,nr_speedtest_result,volte_test_result,sms_test_result,apn_test_result,conf_call_test_result,hotspot_test_result,vowifi_test_result,security_test_result,timestamp2 
+kobitonSessionId,samsung,modelo,OS,NOK,NOK,null,NOK,Under development,,NOK,NOK,NOK,NOK,2024-09-27 18:51:27.935
+kobitonSessionId,marca,modelo,OS,call_test_result,connection_5g_result,nr_speedtest_result,volte_test_result,sms_test_result,apn_test_result,conf_call_test_result,hotspot_test_result,vowifi_test_result,security_test_result,timestamp2 
+kobitonSessionId,samsung,modelo,OS,NOK,NOK,null,NOK,Under development,,NOK,NOK,NOK,NOK,2024-09-30 15:00:40.212
+kobitonSessionId,marca,modelo,OS,call_test_result,connection_5g_result,nr_speedtest_result,volte_test_result,sms_test_result,apn_test_result,conf_call_test_result,hotspot_test_result,vowifi_test_result,security_test_result,timestamp2 
+kobitonSessionId,samsung,modelo,OS,NOK,NOK,null,NOK,Under development,,NOK,NOK,NOK,NOK,2025-06-03 18:01:40.804
+kobitonSessionId,marca,modelo,OS,call_test_result,connection_5g_result,nr_speedtest_result,volte_test_result,sms_test_result,apn_test_result,conf_call_test_result,hotspot_test_result,vowifi_test_result,security_test_result,timestamp2 
+kobitonSessionId,samsung,modelo,OS,NOK,NOK,null,NOK,Under development,,NOK,NOK,NOK,NOK,2025-06-04 11:49:04.891
+kobitonSessionId,marca,modelo,OS,call_test_result,connection_5g_result,nr_speedtest_result,volte_test_result,sms_test_result,apn_test_result,conf_call_test_result,hotspot_test_result,vowifi_test_result,security_test_result,timestamp2 
+kobitonSessionId,samsung,modelo,OS,NOK,NOK,null,NOK,Under development,,NOK,NOK,NOK,NOK,2025-06-04 13:47:14.647
