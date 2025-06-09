@@ -20,7 +20,7 @@ public class get_available_devices {
 
     public static List<Device_Capability> getDeviceInfo() {
 
-        String kobitonServerUrl = "https://nosterminals:ed675ee4-df86-48df-842a-96a89faeafe6@api.kobiton.com/wd/hub";
+        String kobitonServerUrl = "";
 
 
         List<List<String>> resultList = null;
